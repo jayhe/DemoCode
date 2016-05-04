@@ -12,10 +12,11 @@
 *.perspectivev3
 !default.perspectivev3
 !default.xcworkspacexcuserdata
+*.xcworkspace
+*.xcworkspacedata
 *.moved-aside
 xcuserdata
 xcuserdata/*
-
 # Build products
 build/
 *.o
