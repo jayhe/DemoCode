@@ -9,5 +9,8 @@
 #import "Test.h"
 
 @implementation Test
-
+- (NSString *)description
+{
+    return @"description";
+}
 @end
